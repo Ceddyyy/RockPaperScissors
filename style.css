@@ -1,0 +1,27 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family: "Gill Sans", sans-serif;
+    border: 5px solid;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: lightgrey;
+    text-align: center;
+}
+button{
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    background: #1c1b1b;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 20px;
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
